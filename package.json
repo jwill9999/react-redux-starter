@@ -1,0 +1,50 @@
+{
+  "name": "react_redux_flow_starter",
+  "version": "0.0.1",
+  "author": {
+    "name": "Jason Williams",
+    "email": "jasonwilliams@letuscode.co.uk",
+    "url": "http://letuscode.co.uk"
+  },
+  "keywords": [
+    "react-create-app",
+    "redux",
+    "react",
+    "routing",
+    "router4",
+    "flowjs",
+    "flow",
+    "types",
+    "static types",
+    "express",
+    "eslint",
+    "prettier",
+    "jest",
+    "enzyme"
+  ],
+  "description": "React Redux flow eslint prettier jest enzyme starter kit with intergrated express server",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.17.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.3",
+    "dotenv": "^6.1.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "express": "~4.15.2",
+    "hbs": "~4.0.1",
+    "morgan": "~1.8.1",
+    "serve-favicon": "~2.4.2"
+  },
+  "devDependencies": {
+    "@types/dotenv": "^4.0.3",
+    "enzyme": "^3.7.0",
+    "eslint": "^5.8.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-prettier": "^3.0.0",
+    "prettier": "^1.14.3"
+  }
+}
